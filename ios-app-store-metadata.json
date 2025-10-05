@@ -1,0 +1,72 @@
+{
+  "appInfo": {
+    "name": "Routina",
+    "bundleId": "com.routina.app",
+    "version": "1.0.0",
+    "buildNumber": "1",
+    "category": "Productivity",
+    "contentRating": "4+",
+    "price": "Free"
+  },
+  "appStoreMetadata": {
+    "title": "Routina - Suivi d'Habitudes",
+    "subtitle": "Créez vos routines quotidiennes",
+    "description": {
+      "short": "Routina vous aide à créer et suivre vos habitudes quotidiennes pour améliorer votre développement personnel.",
+      "full": "🎯 Transformez votre quotidien avec Routina\n\nRoutina est l'application parfaite pour créer, suivre et maintenir vos habitudes quotidiennes. Que vous souhaitiez boire plus d'eau, faire du sport, méditer ou lire, Routina vous accompagne dans votre parcours de développement personnel.\n\n✨ FONCTIONNALITÉS PRINCIPALES :\n• Création d'habitudes personnalisées\n• Suivi quotidien simple et intuitif\n• Statistiques détaillées et graphiques\n• Système de badges motivant\n• Rappels personnalisables\n• Notes et réflexions\n• Interface élégante et intuitive\n• Données stockées localement (confidentialité)\n\n🏆 GAMIFICATION :\n• 16 badges à débloquer\n• Suivi des séries (streaks)\n• Statistiques de progression\n• Jours parfaits\n• Défis personnels\n\n📊 ANALYSES AVANCÉES :\n• Graphiques de progression\n• Statistiques mensuelles\n• Taux de réussite\n• Tendances et insights\n• Calendrier visuel\n\n🔒 CONFIDENTIALITÉ :\n• Données stockées localement\n• Aucun tracking publicitaire\n• Respect total de votre vie privée\n• Sauvegarde optionnelle\n\nCommencez dès aujourd'hui votre transformation personnelle avec Routina !"
+    },
+    "keywords": [
+      "habitudes",
+      "routine",
+      "productivité",
+      "développement personnel",
+      "suivi",
+      "motivation",
+      "objectifs",
+      "bien-être",
+      "discipline",
+      "amélioration"
+    ],
+    "supportUrl": "https://routina.app/support",
+    "privacyPolicyUrl": "https://routina.app/privacy",
+    "marketingUrl": "https://routina.app"
+  },
+  "screenshots": {
+    "iPhone": {
+      "6.7": [
+        "screenshot-iphone-67-1.png",
+        "screenshot-iphone-67-2.png",
+        "screenshot-iphone-67-3.png",
+        "screenshot-iphone-67-4.png",
+        "screenshot-iphone-67-5.png"
+      ],
+      "6.5": [
+        "screenshot-iphone-65-1.png",
+        "screenshot-iphone-65-2.png",
+        "screenshot-iphone-65-3.png",
+        "screenshot-iphone-65-4.png",
+        "screenshot-iphone-65-5.png"
+      ],
+      "5.5": [
+        "screenshot-iphone-55-1.png",
+        "screenshot-iphone-55-2.png",
+        "screenshot-iphone-55-3.png",
+        "screenshot-iphone-55-4.png",
+        "screenshot-iphone-55-5.png"
+      ]
+    },
+    "iPad": {
+      "12.9": [
+        "screenshot-ipad-129-1.png",
+        "screenshot-ipad-129-2.png",
+        "screenshot-ipad-129-3.png",
+        "screenshot-ipad-129-4.png",
+        "screenshot-ipad-129-5.png"
+      ]
+    }
+  },
+  "appIcon": {
+    "sizes": ["20x20", "29x29", "40x40", "58x58", "60x60", "80x80", "87x87", "120x120", "180x180", "1024x1024"]
+  },
+  "reviewNotes": "Routina est une application de suivi d'habitudes qui aide les utilisateurs à améliorer leur développement personnel. L'application stocke toutes les données localement pour respecter la confidentialité des utilisateurs. Aucune donnée personnelle n'est collectée ou partagée."
+}
