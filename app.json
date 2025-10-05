@@ -1,9 +1,12 @@
 {
   "expo": {
-    "extra": {
-      "eas": {
-        "projectId": "82c22ca8-9a8a-45c6-994a-d03d66a54a26"
-      }
+    "name": "Routina",
+    "slug": "routina",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.routina.app",
+      "buildNumber": "1",
+      "supportsTablet": false
     }
   }
 }
